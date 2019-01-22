@@ -24,7 +24,7 @@
         data(){
           return {
             file: '',
-            code: 'eWbEy0BfEzkG/z9NOKwvlrLg3w2QIvN93SqxQ9Pk+iU='
+            code: ''
           }
         },
         methods: {
